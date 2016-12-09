@@ -1,0 +1,8 @@
+{
+    "guid": "registry_monitoring",
+    "repository": {
+        "type": "git",
+        "branch": "master",
+        "url": "https://github.com/dirigiblelabs/registry_monitoring.git"
+    }
+}
